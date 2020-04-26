@@ -5,5 +5,4 @@ public class Array {
         System.out.println(nilaiArr[7]);
         System.out.println(nilaiArr[3]);
     }
-
 }
