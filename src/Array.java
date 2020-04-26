@@ -1,8 +1,7 @@
 public class Array {
-    public static void main(String [] args){
-        int nilaiArr[] = {40,55,63,17,22,68,89,97,89};
-        System.out.println(nilaiArr.length);
-        System.out.println(nilaiArr[7]);
-        System.out.println(nilaiArr[3]);
+    public static void main(String [] args) {
+        String na[] = {"Muhammad", "ZIDA", "Yassir"};
+        System.out.println(na[0]);
+        System.out.println(na[2]);
     }
 }
